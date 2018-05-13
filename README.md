@@ -18,7 +18,7 @@ This will launch the MongoDB server.
 
 ## Launcher
 
-This will launch the Avalon launcher.
+This will launch the Avalon launcher. Make sure the server is running before.
 
 ## Terminal
 
