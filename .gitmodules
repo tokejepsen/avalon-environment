@@ -1,0 +1,3 @@
+[submodule "bin/avalon-setup"]
+	path = bin/avalon-setup
+	url = https://github.com/getavalon/setup
