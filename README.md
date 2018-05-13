@@ -2,11 +2,11 @@
 
 # Goal
 
-To create a single repository to provide simple entry points into Avalon.
+To provide simple entry points into Avalon.
 
 # Usage
 
-Download the zip, extract and use any of the entry points provided. Initial setup will take a while depending on your internet connection.
+Download the [zip](https://github.com/tokejepsen/avalon-environment/archive/master.zip), extract and use any of the entry points provided. Initial setup will take a while depending on your internet connection.
 
 # Entry points
 
@@ -26,4 +26,4 @@ This will launch a terminal with all Avalon dependencies available.
 
 # About
 
-This repository is powered by Miniconda.
+This repository is powered by [Miniconda](https://conda.io/miniconda.html).
