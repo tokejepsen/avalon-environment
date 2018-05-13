@@ -44,6 +44,7 @@ call activate avalon-environment
 
 :: Initialize submodules
 IF EXIST %~dp0avalon-setup\bin GOTO SUBMODULESEXISTS
+python %~dp0initialise_git.py
 git submodule update --init --recursive
 :SUBMODULESEXISTS
 
