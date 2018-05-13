@@ -1,4 +1,4 @@
-##### This repository is a work-in-progress.
+##### This repository is a work-in-progress. Currently only for Windows.
 
 # Goal
 
