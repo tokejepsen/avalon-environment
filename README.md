@@ -6,7 +6,7 @@ To create a single repository to provide simple entry points into Avalon.
 
 # Usage
 
-Download the zip, extract and use any of the entry points provided.
+Download the zip, extract and use any of the entry points provided. Initial setup will take a while depending on your internet connection.
 
 # Entry points
 
