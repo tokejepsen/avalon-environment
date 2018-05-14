@@ -26,4 +26,20 @@ This will launch a terminal with all Avalon dependencies available.
 
 # About
 
-This repository is powered by [Miniconda](https://conda.io/miniconda.html).
+When using any of the entry points, the dependencies of Avalon will be installed. The dependencies include:
+
+- mongodb 3.4.10
+- python 3.6.5
+- git 2.17.0
+- pymongo 3.6.1
+- pyqt5 5.7.1
+
+The installation is powered by [Miniconda](https://conda.io/miniconda.html), which gets installed to ```[avalon-environment]/bin/miniconda```. The Conda environment is located at ```[avalon-environment]/bin/miniconda/envs/avalon-environment```.
+
+Once all dependencies are downloaded and installed, this repository will get expanded to around 1.2 GB on disk.
+
+## Uninstall
+
+You can find an uninstaller at ```[avalon-environment]/bin/miniconda/Uninstall-Miniconda2.exe```.
+
+Alternatively you can also just delete ```[avalon-environment]/bin/miniconda```, as this directory contains all files from the installation.
