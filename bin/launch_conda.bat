@@ -50,3 +50,4 @@ git submodule update --init --recursive
 
 :: Setup Avalon
 set PATH=%~dp0avalon-setup;%PATH%
+set PYTHONPATH=%~dp0avalon-setup\git\avalon-core;%~dp0avalon-setup\git\avalon-launcher;%~dp0avalon-setup\git\pyblish-base;%~dp0avalon-setup\git\pyblish-qml
