@@ -30,7 +30,7 @@ When using any of the entry points, the dependencies of Avalon will be installed
 
 - mongodb 3.4.10
 - python 3.6.5
-- git 2.17.0
+- git 2.14.1
 - pymongo 3.6.1
 - pyqt5 5.7.1
 
