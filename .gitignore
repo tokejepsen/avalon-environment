@@ -1,1 +1,3 @@
 bin/miniconda
+.pytest_cache
+__pycache__
