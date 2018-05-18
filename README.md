@@ -36,7 +36,7 @@ When using any of the entry points, the dependencies of Avalon will be installed
 
 The installation is powered by [Miniconda](https://conda.io/miniconda.html), which gets installed to ```[avalon-environment]/bin/miniconda```. The Conda environment is located at ```[avalon-environment]/bin/miniconda/envs/avalon-environment```.
 
-Once all dependencies are downloaded and installed, this repository will get expanded to around 1.2 GB on disk.
+Once all dependencies are downloaded and installed, this repository will get expanded to around 1.6 GB on disk.
 
 ## Uninstall
 
