@@ -16,6 +16,8 @@ All entry points will ensure that all dependencies of Avalon is installed.
 
 This will launch the MongoDB server.
 
+This takes an optional argument to specify a custom database location. For example ```server C:\data\custom```. If no argument is specified the default location will be used ```C:\data\db```.
+
 ## Launcher
 
 This will launch the Avalon launcher. Make sure the server is running before.

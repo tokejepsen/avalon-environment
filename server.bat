@@ -1,3 +1,2 @@
 call %~dp0bin\launch_conda.bat
-
-start "Avalon MongoDB" mongod
+python %~dp0bin\server.py %*
