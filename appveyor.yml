@@ -1,0 +1,8 @@
+# fetch repository as zip archive
+shallow_clone: true
+
+# to disable automatic builds
+build: off
+
+test_script:
+  - "%CMD_IN_ENV% tests/run_tests.bat"

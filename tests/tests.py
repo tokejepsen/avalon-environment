@@ -11,7 +11,7 @@ def test_avalon_help():
 
 def test_submodules_exists():
     git_directory = os.path.abspath(
-        os.path.join(__file__, "..", "bin", "avalon-setup", "git")
+        os.path.join(__file__, "..", "..", "bin", "avalon-setup", "git")
     )
     assert os.path.exists(git_directory)
 
