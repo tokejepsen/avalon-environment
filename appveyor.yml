@@ -5,5 +5,4 @@ shallow_clone: true
 build: off
 
 test_script:
-  - cd tests
-  - run_tests.bat
+  - tests/run_tests.bat
