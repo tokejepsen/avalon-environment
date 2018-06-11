@@ -1,4 +1,4 @@
-##### This repository is a work-in-progress. Currently only for Windows.
+##### Development of this repository has been stopped in favour of https://github.com/getavalon/docker
 
 # Goal
 
